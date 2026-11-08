@@ -40,6 +40,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             </p>
           </div>
         </footer>
+        <script data-cfasync="false" src="https://aarems.org/1/9c562358bc2a25639f5158f38088d68d"></script>
       </body>
     </html>
   );
